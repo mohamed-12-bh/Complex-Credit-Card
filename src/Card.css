@@ -1,0 +1,55 @@
+.master {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  width: 90%;
+  
+}
+.credit-card {
+  background-image: linear-gradient(red, gray, blue);
+  width: 30%;
+  border-radius: 5px;
+}
+.titel-card {
+  color: white;
+  margin-left: 50%;
+}
+.img-master {
+  width: 70px;
+  margin-bottom: 40px;
+}
+.img-card {
+  width: 10%;
+}
+.input-test {
+  display: flex;
+}
+.header-card {
+  display: flex;
+  justify-content: space-around;
+  
+}
+.main-card{
+    margin-left:20px;
+}
+.par-card{
+  text-align: center;
+}
+.zone-text{
+  display: flex;
+  flex-direction: column;
+ margin: 50px;
+ margin-top: 100px;
+ 
+}
+.zone-num-date{
+  margin:10px;
+  width: 110%;
+  border-radius: 4px;
+}
+.zone-name{
+  width: 90%;
+
+}
+
+
